@@ -73,10 +73,10 @@ and follow the instructions of the executable named **Reminder_Setup.exe**.
 
 # Gallery
 <div>
-  <img src="Description/1.png" alt="Website interface" width="500">
-  <img src="Description/2.png" alt="Example of a message" width="500">
-  <img src="Description/3.png" alt="The message was well transmitted" width="500">
-  <img src="Description/4.png" alt="Server window" width="500">
+  <img src="Description/1.png" alt="Website interface" width="400">
+  <img src="Description/2.png" alt="Example of a message" width="400">
+  <img src="Description/3.png" alt="The message was well transmitted" width="400">
+  <img src="Description/4.png" alt="Server window" width="400">
 </div>
 
 # Credits
