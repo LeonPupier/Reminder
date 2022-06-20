@@ -48,7 +48,7 @@
 This service allows you to launch on the computer of the desired person a small software very economical in resources that will give you access to a website.
 You can send text messages via the website.
 
-Once your message is sent, the computer will receive it and a robotic voice will read the message on the computer's current audio device so that your message can be heard by the recipient under any circumstances.
+Once your message is sent, the computer will receive it and a voice will read the message on the computer's current audio device so that your message can be heard by the recipient under any circumstances.
 
 This allows for example to pass instructions between 2 people who are too far away in the house to communicate without moving.
 
