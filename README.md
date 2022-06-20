@@ -72,6 +72,7 @@ and follow the instructions of the executable named **Reminder_Setup.exe**.
 
 # Roadmap
 - [x] Public release in 1.0.0
+- [ ] Waiting for feedback and desire from users
 
 # Gallery
 <div>
