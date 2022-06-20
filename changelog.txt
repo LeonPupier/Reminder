@@ -1,0 +1,10 @@
+v1.0.0
+- Official launch of the "Reminder" service
+- Added message sending between client and server
+- Messages are transcribed verbally to the recipient
+- Addition of the changelog page
+- Server under "paste" to improve performance
+- 404 and 405 error handling supported
+- Support with Ko-Fi widget
+- Added language accents for: English, French, Spanish, German, Russian, Chinese, Japanese
+- A notification is now displayed when a message arrives
