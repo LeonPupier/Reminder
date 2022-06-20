@@ -56,6 +56,8 @@ Moreover, if the recipient is listening to music and that affects his perception
 
 The website is available on all platforms! You can access it from another computer, a tablet and even your smartphone! Nice not.
 
+**-> For security reasons, you must be on the same internet network as the server running on the computer to access the website.**
+
 # Requirements
 In order to use the software on your computer, it must meet several requirements:
 - Operating system: Windows 10 / 11
