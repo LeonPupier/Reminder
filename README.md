@@ -58,7 +58,7 @@ The website is available on all platforms! You can access it from another comput
 
 # Requirements
 In order to use the software on your computer, it must meet several requirements:
-- Operating system: Windows 10 / 11 (*not tested on Windows 8*)
+- Operating system: Windows 10 / 11
 - Processor architecture: *32 / 64 bits (recommended)*
 - **Internet access required**
 
