@@ -54,6 +54,8 @@ This allows for example to pass instructions between 2 people who are too far aw
 
 Moreover, if the recipient is listening to music and that affects his perception of surrounding sounds like your voice, the fact that the robotic voice reads your message sent with the website guarantees that the recipient will have received your message even while listening to music at the same time.
 
+The website is available on all platforms! You can access it from another computer, a tablet and even your smartphone! Nice not.
+
 # Requirements
 In order to use the software on your computer, it must meet several requirements:
 - Operating system: Windows 10 / 11 (*not tested on Windows 8*)
