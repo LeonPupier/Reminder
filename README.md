@@ -20,7 +20,7 @@
 </div>
 
 <!-- PROJECT SHIELDS -->
-[![Release](https://img.shields.io/github/release/LeonPupier/Reminder.svg)](https://github.com/LeonPupier/Reminder/releases)
+<!-- [![Release](https://img.shields.io/github/release/LeonPupier/Reminder.svg)](https://github.com/LeonPupier/Reminder/releases) -->
 <!-- [![Downloads](https://img.shields.io/github/downloads/LeonPupier/Mensible/total.svg)](https://github.com/LeonPupier/Reminder/releases) -->
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/LeonPupier/Reminder/)
