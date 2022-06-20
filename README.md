@@ -8,7 +8,7 @@
   <h3 align="center">♦ Reminder ♦</h3>
 
   <p align="center">
-    Website allowing to broadcast by voice a written message on the recipient's computer to send him a message.
+    A website allowing to broadcast by voice a written message on the recipient's computer to send him a message.
     <br />
     <a href="https://www.leonpupier.fr/projects/reminder"><strong>See on the website »</strong></a>
     <br />
