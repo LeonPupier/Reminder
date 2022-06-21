@@ -74,6 +74,10 @@ and follow the instructions of the executable named **Reminder_Setup.exe**.
 # Roadmap
 - [x] Public release in 1.0.0
 - [ ] Waiting for feedback and desire from users
+- [ ] Add direct voice recording
+- [ ] Possibility to play the message several times in a row
+- [ ] Replay messages
+- [ ] Configuration of the software with different parameters that will not be communicated for the moment
 
 # Gallery
 <div>
