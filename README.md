@@ -68,8 +68,9 @@ In order to use the software on your computer, it must meet several requirements
 - ⚠️ **If you get an error in sending the message, restart the software in administrator mode** ⚠️
 
 # Installation
-To install ***Reminder*** on your computer under *Windows* you just have to download the following [installer](https://github.com/LeonPupier/Reminder/releases/latest) 
-and follow the instructions of the executable named **Reminder_Setup.exe**.
+To install ***Reminder*** on your computer under *Windows* you just have to download the following executable named [**Reminder.exe**](https://github.com/LeonPupier/Reminder/releases/latest).
+
+The software is fully portable.
 
 *There is no need to restart the computer for the software to install perfectly.*
 
@@ -93,7 +94,7 @@ and follow the instructions of the executable named **Reminder_Setup.exe**.
 The software was thought, coded and realized by *Léon Pupier*.
 Based on an original idea by *Roméo Guerlus*.
 
-Some of the icons used were downloaded from [Flaticon](https://www.flaticon.com/).
+The icon of the website comes from this source: [bell picture](https://www.flaticon.com/fr/icone-gratuite/sonnette-dalarme_1059167?term=bell&page=1&position=10&page=1&position=10&related_id=1059167&origin=search).
 
 The changes file is available at [this address](https://github.com/LeonPupier/Reminder/blob/main/changelog.txt).
 
