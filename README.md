@@ -20,8 +20,8 @@
 </div>
 
 <!-- PROJECT SHIELDS -->
-<!-- [![Release](https://img.shields.io/github/release/LeonPupier/Reminder.svg)](https://github.com/LeonPupier/Reminder/releases) -->
-<!-- [![Downloads](https://img.shields.io/github/downloads/LeonPupier/Mensible/total.svg)](https://github.com/LeonPupier/Reminder/releases) -->
+[![Release](https://img.shields.io/github/v/release/LeonPupier/Reminder.svg)](https://github.com/LeonPupier/Reminder/releases)
+<!-- [![Downloads](https://img.shields.io/github/downloads/LeonPupier/Reminder/total.svg)](https://github.com/LeonPupier/Reminder/releases) -->
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/LeonPupier/Reminder/)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/LeonPupier/Reminder/)
@@ -44,6 +44,8 @@
 <!-- CONTENTS -->
 # Description
 ***Reminder*** is a completely **free software** financed only by [donations](https://ko-fi.com/leonpupier) from generous users.
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/leonpupier)
 
 This service allows you to launch on the computer of the desired person a small software very economical in resources that will give you access to a website.
 You can send text messages via the website.
