@@ -1,3 +1,14 @@
+v1.1.0
+- Added function to replay a given number of times the message
+- Switch to "cheroot" backend to increase performance
+- Detection if a new update is available
+- Change background image
+- Notifications will remain displayed longer, depending on the system configuration
+- The notifications will be visible in the Windows Notifications panel to read them later and keep them in memory
+- Changing the opacity of the text area
+- Minor visual changes
+- Removal of highlighted information
+
 v1.0.1
 - Addition of a message advising the use of the administrator rights during a problem of sending on the website
 
