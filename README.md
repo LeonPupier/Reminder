@@ -84,6 +84,7 @@ and follow the instructions of the executable named **Reminder_Setup.exe**.
 
 # Credits
 The software was thought, coded and realized by *Léon Pupier*.
+Based on an original idea by *Roméo Guerlus*.
 
 Some of the icons used were downloaded from [Flaticon](https://www.flaticon.com/).
 
