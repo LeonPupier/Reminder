@@ -63,6 +63,7 @@ In order to use the software on your computer, it must meet several requirements
 - Operating system: Windows 10 / 11
 - Processor architecture: *32 / 64 bits (recommended)*
 - **Internet access required**
+- ⚠️ **If you get an error in sending the message, restart the software in administrator mode** ⚠️
 
 # Installation
 To install ***Reminder*** on your computer under *Windows* you just have to download the following [installer](https://github.com/LeonPupier/Reminder/releases/latest) 
