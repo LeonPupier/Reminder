@@ -1,3 +1,6 @@
+v1.0.1
+- Addition of a message advising the use of the administrator rights during a problem of sending on the website
+
 v1.0.0
 - Official launch of the "Reminder" service
 - Added message sending between client and server
