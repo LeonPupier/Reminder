@@ -30,14 +30,14 @@
 <details>
   <summary><b>Table of Contents</b></summary>
   <ol>
-    <li><a href="#description">Description</a></li>
-    <li><a href="#requirements">Requirements</a></li>
-    <li><a href="#installation">Installation</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#gallery">Gallery</a></li>
-    <li><a href="#credits">Credits</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#description">📰 Description</a></li>
+    <li><a href="#requirements">⚙️ Requirements</a></li>
+    <li><a href="#installation">📥 Installation</a></li>
+    <li><a href="#roadmap">🗺️ Roadmap</a></li>
+    <li><a href="#gallery">🖼️ Gallery</a></li>
+    <li><a href="#credits">📷 Credits</a></li>
+    <li><a href="#license">📝 License</a></li>
+    <li><a href="#contact">📧 Contact</a></li>
   </ol>
 </details>
 
