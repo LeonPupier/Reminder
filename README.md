@@ -91,7 +91,7 @@ and follow the instructions of the executable named **Reminder_Setup.exe**.
 
 # Credits
 The software was thought, coded and realized by *Léon Pupier*.
-Based on an original idea by *Roméo Guerlus*.
+Based on an original idea by [*Roméo Guerlus*](https://www.instagram.com/romeo.guerlus/).
 
 The icon of the website comes from this source: [bell picture](https://www.flaticon.com/fr/icone-gratuite/sonnette-dalarme_1059167?term=bell&page=1&position=10&page=1&position=10&related_id=1059167&origin=search).
 
