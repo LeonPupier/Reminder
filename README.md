@@ -98,7 +98,7 @@ The icon of the website comes from this source: [bell picture](https://www.flati
 The changes file is available at [this address](https://github.com/LeonPupier/Reminder/blob/main/changelog.txt).
 
 # License
-The license is visible [here](https://github.com/LeonPupier/Reminder/blob/main/license.md).
+The license is visible [here](https://github.com/LeonPupier/Reminder/blob/main/LICENSE.md).
 
 # Contact
 **Contact me:**
