@@ -1,3 +1,8 @@
+v1.1.1
+- Fixed a problem in the detection of updates
+- Corrected application notification icon
+- Fixed server error during notification display
+
 v1.1.0
 - Added function to replay a given number of times the message
 - Switch to "cheroot" backend to increase performance
