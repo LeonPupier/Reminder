@@ -103,6 +103,6 @@ The license is visible [here](https://github.com/LeonPupier/Reminder/blob/main/L
 # Contact
 **Contact me:**
 
-**Email:** [leonpupier@gmail.com](mailto:leonpupier@gmail.com)
+**Email:** [public_contact.l2qt6@slmail.me](mailto:public_contact.l2qt6@slmail.me)
 
 **Website:** [leonpupier.fr](https://leonpupier.fr)
