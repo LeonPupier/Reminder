@@ -61,7 +61,7 @@ The website is available on all platforms! You can access it from another comput
 **-> For security reasons, you must be on the same internet network as the server running on the computer to access the website.**
 
 # Requirements
-In order to use the software on your computer, it must meet several requirements:
+In order to use the software on your computer, it must meet several requirements: 
 - Operating system: Windows 10 / 11
 - Processor architecture: *32 / 64 bits (recommended)*
 - **Internet access required**
